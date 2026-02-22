@@ -7,4 +7,4 @@ hello there
 
 test
 
-pushing from.mobile
+typing at pc
