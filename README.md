@@ -8,6 +8,3 @@ hello there
 test
 
 wow gdgd
-
-ahhhhh
-mgmh
